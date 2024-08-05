@@ -112,7 +112,7 @@ main {
 }
 
 .home-title {
-  font-size: 3.5rem;
+  font-size: 3rem;
   text-transform: uppercase;
   margin-bottom: 20px;
   text-align: right;
@@ -125,7 +125,7 @@ span {
 }
 
 .home-description {
-  font-size: 1.2em;
+  font-size: 1.2rem;
   padding: 0 10px;
   margin: 0 auto 4rem;
   text-align: justify;
@@ -259,7 +259,7 @@ span {
   border: 2px solid #fff;
   display: inline-block;
   padding: 0;
-  margin: 10px;
+  margin: 1rem;
   text-wrap: wrap;
   border-radius: 10px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
