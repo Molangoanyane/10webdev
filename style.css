@@ -253,8 +253,8 @@ span {
 
 
 .card-container {
-  min-width: 300px;
-  max-width: 300px;
+  min-width: 290px;
+  max-width: 290px;
   min-height: 460px;
   border: 2px solid #fff;
   display: inline-block;
