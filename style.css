@@ -90,7 +90,7 @@ nav>ul>li>a:hover {
 }
 
 #home {
-  height: 100vh;
+  height: fit-content;
   display: flex;
   justify-content: center;
   align-items: flex-start;
