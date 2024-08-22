@@ -368,8 +368,8 @@ h6 {
 .social>a>svg { 
   width: 30px;
   height: 30px;
-  border-radius: 50%;
-  box-shadow: 0 0 20px rgba(0, 0.5,);
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0.8,);
 }
 
 .ntsebe {
