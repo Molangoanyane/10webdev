@@ -366,9 +366,9 @@ h6 {
 }
 
 .social>a>svg { 
-  width: 30px;
-  height: 30px;
-  border: 1px solid white;
+  width: 80px;
+  height: 50px;
+  border: 10px solid white;
   border-radius: 0;
   box-shadow: 0 0 20px rgba(0, 0.8,);
 }
