@@ -348,7 +348,6 @@ h6 {
   border: 0px solid white;
   border-radius: 20px;
   background: rgba(55, 55, 55, 0.7);
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
@@ -366,11 +365,10 @@ h6 {
 }
 
 .social>a>svg { 
-  width: 80px;
-  height: 50px;
-  border: 10px solid white;
+  width: 30px;
+  height: 30px;
   border-radius: 0;
-  box-shadow: 0 0 20px rgba(0, 0.8,);
+  box-shadow: 0 0 0 20px rgba(0, 0.8,);
 }
 
 .ntsebe {
