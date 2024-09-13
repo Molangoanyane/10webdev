@@ -43,12 +43,11 @@ nav>a>div {
   width: 80px;
   height: auto;
   border: 0px solid transparent;
-  border-radius: 50%;
+  border-radius: 15px;
   background-image: url(img/logo.jpg);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-  transition: 1s ease-in-out;
 }
 nav > div, ul {
   display: inline;
