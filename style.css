@@ -41,7 +41,7 @@ nav>a>div {
   margin:0.5rem 0 0 1.5rem;
   vertical-align: middle;
   width: 100px;
-  height: auto;
+  height: 50px;
   border: 0px solid transparent;
   border-radius: 10%;
   background-image: url(img/logo.png);
