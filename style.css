@@ -43,7 +43,7 @@ nav>a>div {
   width: 100px;
   height: auto;
   border: 0px solid transparent;
-  border-radius: 50%;
+  border-radius: 10%;
   background-image: url(img/logo.png);
   background-position: center;
   background-size: contain;
