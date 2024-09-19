@@ -40,11 +40,11 @@ header {
 nav>a>div {
   margin:0.5rem 0 0 1.5rem;
   vertical-align: middle;
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: auto;
   border: 0px solid transparent;
   border-radius: 50%;
-  background-image: url(img/logo.jpg);
+  background-image: url(img/logo.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
